@@ -2,4 +2,4 @@
 testing GitHub
 
 I have had added some text here.
-Opened from WebStorm now.
+Opened from WebStorm now!

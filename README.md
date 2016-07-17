@@ -1,2 +1,4 @@
 # hello-git
-testing git
+testing GitHub
+
+I have had added some text here.

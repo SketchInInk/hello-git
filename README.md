@@ -9,4 +9,8 @@ Adding another sentence.
 
 Working from browser. Привет!
 
+<<<<<<< HEAD
 working from notepad
+=======
+И снова из броузера!
+>>>>>>> ab7609dcea97a6d2fa1e3822e12b10d61d41348e

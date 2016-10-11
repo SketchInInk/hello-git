@@ -1,4 +1,4 @@
-# hello-git
+﻿# hello-git
 testing GitHub
 
 I have had added some text here.
@@ -8,3 +8,5 @@ Trying to work more.
 Adding another sentence.
 
 Working from browser. Привет!
+
+working from notepad
